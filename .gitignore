@@ -1,6 +1,7 @@
 # Output Artifacts (Legacy)
 /models
 /summaries
+[Ll]ibrary/
 # Output Artifacts
 /results
 # Output Builds
