@@ -254,10 +254,8 @@ MonoBehaviour:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
   MaxStep: 500000
-  plane: {fileID: 116608632}
   endPlatform: {fileID: 981362348}
   intermediatePlatform: {fileID: 7938750314715127865, guid: 2950c7464ed5d4028affdccc9e9a8af3, type: 3}
-  solverAgent: {fileID: 829741976}
   auxInput: 0
   spawnDone: 0
   academyEnv: {fileID: 1787815648}
@@ -1362,7 +1360,6 @@ MonoBehaviour:
   solver: {fileID: 829741976}
   pcg: {fileID: 117964240}
   intermediatePlatform: {fileID: 7938750314715127865, guid: 2950c7464ed5d4028affdccc9e9a8af3, type: 3}
-  spawnComplete: 0
 --- !u!1 &1889213932 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7938750315065474888, guid: 2950c7464ed5d4028affdccc9e9a8af3, type: 3}
