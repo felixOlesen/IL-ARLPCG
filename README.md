@@ -2,6 +2,7 @@
 
 [Watch a 5-min Summary Video](https://www.youtube.com/watch?v=DcBS5_sZu2M)
 
+All of the included code is present in 'Assets -> Scripts'.
 
 1. Follow this guide to install the ml agents python library: https://github.com/Unity-Technologies/ml-agents/blob/release_19_docs/docs/Installation.md#advanced-local-installation-for-development
 2. Ensure that Unity and Unity Hub are both installed
